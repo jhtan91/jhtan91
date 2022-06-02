@@ -6,6 +6,7 @@
 
 ********************************************************
 2 June 2022
+
 Started an account on GitHub. What I aim to achieve:
 - Improve on demand programming skills
 - Create projects with different languages
